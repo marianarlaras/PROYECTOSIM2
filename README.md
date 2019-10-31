@@ -6,9 +6,11 @@ Practica RStudio - GitHub
 ### Resumen 🚀
 _En el presente proyecto, podras observar como hemos logrado mediante las funcionalidad de Rstudio y GitHub, asociar directorios para modificar las versiones de nuestros proyectos RStudio de manera colaborativa._
 
-Se ha seleccionado la información contenida en **IRIS**. 
+Se ha seleccionado la información contenida en 🌺**IRIS**.🌸 
 
-En el apartado de *MarkDown*, se aprecia a mayor detalle las relaciones del conjunto; entre fotografías y gráficos, se facilita el entendimiento del contenido. De igual forma, se añaden links para cureosear conceptos básicos
+En el apartado de *MarkDown*, se aprecia a mayor detalle las relaciones del conjunto; entre fotografías y gráficos, se facilita el entendimiento del contenido.
+
+De igual forma, se añaden links para cureosear conceptos básicos
 
 
 
