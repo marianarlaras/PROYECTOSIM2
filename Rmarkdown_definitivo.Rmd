@@ -1,0 +1,54 @@
+---
+title: "La flor Iris"
+author: Por Mariana Lara, Sebastián Goday e Irene Polvorinos
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    theme: united
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+En el siguiente documento vamos a estudiar el conjunto de datos _**Iris**_ para comprobar si existe correlación entre las distintas variables.
+
+Iris es un género de plantas de la familia Iridaceae, cuyo nombre deriva del latín arcoiris, refiriéndose a la extensa variedad de colores florales que poseen sus muchas especies.
+
+![](iris.jpg "Imagen de iris")
+
+## Resumen del conjunto y variables 
+Dento del conjunto contamos con 50 flores dentro cada una de las tres subespecies (_setosa_, _versicolor_ y _virginica_).
+```{r iris$species, echo=FALSE}
+summary(iris$Species)
+```
+
+Usando el comando ```summary(iris)``` podemos ver un resumen del conjunto completo, siendo posible observar las medias de cada una de las variables.
+
+* Largo del sépalo: 5.8
+* Ancho del sépalo: 3.1
+* Largo del pétalo: 3.8
+* Ancho del pétalo: 1.2
+
+```{r iris, echo=FALSE}
+summary(iris)
+```
+
+Para el lector que no conozca el término sépalo, el siguiente link puede ser de ayuda.
+
+[¿Qué es el sépalo de la flor?](https://es.wikipedia.org/wiki/S%C3%A9palo)
+
+## Correlación
+
+Cruzando las distintas variables en un gráfico de dispersión, se observa que existe una **correlación positiva entre el ancho y el largo del pétalo**, cuanto mayor es el ancho del pétalo mayor es el largo. Se observa también que una de las subespecies se encuentra alejada de las otras dos (a la izquierda del gráfico) diferenciándose así de estas.
+
+```{r irisplot, echo=FALSE} 
+plot(iris$Petal.Length, iris$Petal.Width, col ="Red", ylab = "Ancho del Pétalo", xlab = "Largo del Pétalo")
+```
+
