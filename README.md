@@ -1,12 +1,10 @@
+
 # PROYECTOSIM2
 Practica RStudio - GitHub
-
-# Proyecto SIM
 
 ### Comenzando 🚀
 _En el presente proyecto, podras observar como hemos logrado mediante las funcionalidad de Rstudio y GitHub, asociar directorios para modificar las versiones de nuestros proyectos RStudio de manera colaborativa._
 
-# PRUEBAAAAA
 
 ### Indice de Contenido
 * [Team Members](#team-members)
