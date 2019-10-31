@@ -14,9 +14,9 @@ _En el presente proyecto, podras observar como hemos logrado mediante las funcio
 * [Agradecimientos](#Expresiones-de-gratitud)
 
 ### <a name="team-members"></a>Team Members :man::dancers:
-* "Sebastián Goday " <admin@listforks.com> - >>> <https://www.linkedin.com/in/sebastiangoday/>
-* "Irene Polvorinos" <admin@listforks.com> - >>> <https://www.linkedin.com/in/irene-polvorinos-le%C3%B3n-979549150/>
-* "Mariana Lara" <marianaRlaras@gmail.com> - >>> <https://www.linkedin.com/in/marianarlaras/>
+* "Sebastián Goday " <sebastiangoday@gmail.com> - >>> <https://github.com/sebastiangoday/>
+* "Irene Polvorinos" <irene.polvorinos@gmail.com> - >>> <https://github.com/IrenePolvorinos/>
+* "Mariana Lara" <marianaRlaras@gmail.com> - >>> <https://github.com/marianarlaras/>
 
 ### <a name="Pre-requisitos"></a>Pre-requisitos📋
 _Para revisar esta practica debes tener instalado previamente los siguientes componentes:_
