@@ -1,6 +1,8 @@
 library(shiny)
 runApp("Shiny01")
 
-summary(cars)
-plot(cars$speed,cars$dist)
+boxplot(airquality$Wind,airquality$Month)
+hist(airquality$Wind)
+abline(v=mean(airquality$Wind),col="yellow")
+barplot(tapply(iris$Petal.Length,iris$Species, mean))
 
