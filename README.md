@@ -54,7 +54,7 @@ xcode-select --install
 
 ### <a name="enlaces-adicionales"></a>Enlaces Adicionales 🔗
 * [Fichero en Rpubs](http://rpubs.com/IrenePolvorinos/545257) por IrenePolvorinos
-* [How To Make an Origami Iris Flower](https://www.youtube.com/watch?v=hkB8FpIgRn8) 
+* Como hacer una flor de Origami [YouTube](https://www.youtube.com/watch?v=hkB8FpIgRn8) 
 
 
 ### <a name="Expresiones-de-gratitud"></a> Agradecimientos 🎁
