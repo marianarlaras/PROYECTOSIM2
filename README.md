@@ -1,9 +1,15 @@
 
 # PROYECTOSIM2
+
 Practica RStudio - GitHub
 
-### Comenzando 🚀
+### Resumen 🚀
 _En el presente proyecto, podras observar como hemos logrado mediante las funcionalidad de Rstudio y GitHub, asociar directorios para modificar las versiones de nuestros proyectos RStudio de manera colaborativa._
+
+Se ha seleccionado la información contenida en **IRIS**. 
+
+En el apartado de *MarkDown*, se aprecia a mayor detalle las relaciones del conjunto; entre fotografías y gráficos, se facilita el entendimiento del contenido. De igual forma, se añaden links para cureosear conceptos básicos
+
 
 
 ### Indice de Contenido
@@ -37,7 +43,7 @@ xcode-select --install
 * [RStudio](https://rstudio.com/products/rstudio/download/) - Nuestro entorno de desarrollo integrado para aprender a usar R. 💻
 * [GitHub](http://www.github.com/) - Aprendiend a utilizarlo en la marcha. 💣
 * [Slack](https://slack.com/) - Usado para comunicarnos diferentemente. :scream_cat:
-* [Emojis](https://gist.github.com/rxaviers/7360908) - Emojis Utilizados para dar alegría al trabajo. 🆒
+* [Emojis](https://gist.github.com/rxaviers/7360908/) - Emojis Utilizados para dar alegría al trabajo. 🆒
 
 
 ### <a name="Expresiones-de-gratitud"></a> Agradecimientos 🎁
@@ -48,4 +54,6 @@ xcode-select --install
 * Al fin de semana❗.
 
 
+> “For the things we have to learn before we can do them, we learn by doing them.”
+― Aristotle
 
