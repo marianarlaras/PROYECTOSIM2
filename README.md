@@ -6,11 +6,13 @@ Practica RStudio - GitHub
 ### Resumen 🚀
 _En el presente proyecto, podras observar como hemos logrado mediante las funcionalidad de Rstudio y GitHub, asociar directorios para modificar las versiones de nuestros proyectos RStudio de manera colaborativa._
 
-Se ha seleccionado la información contenida en 🌺**IRIS**.🌸 
+Se ha seleccionado la información contenida en **IRIS**🌸. 
 
-En el apartado de *MarkDown*, se aprecia a mayor detalle las relaciones del conjunto; entre fotografías y gráficos, se facilita el entendimiento del contenido.
+En el apartado de ***MarkDown***, se aprecia a mayor detalle las relaciones del conjunto; entre fotografías y gráficos, se facilita el entendimiento del contenido.
 
-De igual forma, se añaden links para cureosear conceptos básicos
+De igual forma, se añaden links para cureosear conceptos básicos.
+
+En el apartado de ***Shiny*** , se utiliza esta  herramienta interactiva, para crear apps web que permiten a los usuarios interactuar con sus datos sin tener que manipular el código.
 
 
 
@@ -19,6 +21,7 @@ De igual forma, se añaden links para cureosear conceptos básicos
 * [Pre-requisitos](#pre-requisitos)
 * [Instalación](#Instalación)
 * [Construido con](#Construido-con)
+* [Enlaces Adicionales](#enlaces-adicionales)
 * [Agradecimientos](#Expresiones-de-gratitud)
 
 ### <a name="team-members"></a>Team Members :man::dancers:
@@ -46,6 +49,12 @@ xcode-select --install
 * [GitHub](http://www.github.com/) - Aprendiend a utilizarlo en la marcha. 💣
 * [Slack](https://slack.com/) - Usado para comunicarnos diferentemente. :scream_cat:
 * [Emojis](https://gist.github.com/rxaviers/7360908/) - Emojis Utilizados para dar alegría al trabajo. 🆒
+
+
+
+### <a name="enlaces-adicionales"></a>Enlaces Adicionales 🔗
+* [Fichero en Rpubs](http://rpubs.com/IrenePolvorinos/545257) por IrenePolvorinos
+* [How To Make an Origami Iris Flower](https://www.youtube.com/watch?v=hkB8FpIgRn8) 
 
 
 ### <a name="Expresiones-de-gratitud"></a> Agradecimientos 🎁
